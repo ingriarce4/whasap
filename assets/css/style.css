@@ -1,0 +1,39 @@
+/*<!-- nav-->*/
+.box-nav{
+  padding: 30px;
+  background-color: black;
+  position: absolute;
+  top: 0px;
+  color: #ffffff;
+  z-index: 0;
+}
+.box-hero{
+  padding: 80px;
+  background-color: #f7b617;
+  position: relative;
+  right: 0;
+  color: #ffffff;
+}
+.input-box{
+  margin: 25px 0;
+}
+.input-box input{
+  background: none;
+  border: 0;
+  border: 1px solid #ffffff;
+  border-radius: 7px;
+  width: 290px;
+  padding: 5px 8px;
+  margin-left: 5px;
+  outline: none;
+}
+.hr{
+
+
+}
+.input-box2{
+	background: none;
+	border:0;
+	border:1px; solid ;
+
+}
